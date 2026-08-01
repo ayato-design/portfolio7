@@ -55,25 +55,6 @@ img {
     transform: translateY(0);
 }
 
-/* ボタン */
-.button a {
-    background: #FFDE59;
-    color: #FFFFFF;
-    border-radius: 3px;
-    position: relative;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin: 0 auto;
-    max-width: 200px;
-    padding: 20px;
-    transition: 0.3s ease-in-out;
-}
-.button a:hover {
-    background: #FFFFFF;
-    color: #FFDE59;
-}
-
 /* 画像角丸処理 */
 .profile_image img {
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
